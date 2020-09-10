@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <StatisticStartDate>2017-10-01</StatisticStartDate>
+  <ResourceCategories>
+    <ResourceCategory>
+      <Name>Default</Name>
+      <Color>-65281</Color>
+    </ResourceCategory>
+    <ResourceCategory>
+      <Name>Holiday</Name>
+      <Color>-65408</Color>
+    </ResourceCategory>
+    <ResourceCategory>
+      <Name>No School Flag</Name>
+      <Color>-32704</Color>
+    </ResourceCategory>
+    <ResourceCategory>
+      <Name>Test a</Name>
+      <Color>-16744384</Color>
+    </ResourceCategory>
+    <ResourceCategory>
+      <Name>TEST b</Name>
+      <Color>-8388353</Color>
+    </ResourceCategory>
+  </ResourceCategories>
+  <Resources>
+    <Resource>
+      <Name>AAC</Name>
+      <Notes>prefer Wednesday 
+fdasfasdl
+&gt; &lt;&lt;
+fdaslf;
+&amp; &lt;&gt;&gt;</Notes>
+      <Active>false</Active>
+      <ResourceCategory>Default</ResourceCategory>
+      <StartDate>2017-10-20</StartDate>
+    </Resource>
+    <Resource>
+      <Name>BBB</Name>
+      <Notes />
+      <Active>true</Active>
+      <ResourceCategory>Default</ResourceCategory>
+      <StartDate>2017-10-01</StartDate>
+    </Resource>
+    <Resource>
+      <Name>CCC</Name>
+      <Notes />
+      <Active>true</Active>
+      <ResourceCategory>Default</ResourceCategory>
+      <StartDate>2017-10-20</StartDate>
+    </Resource>
+    <Resource>
+      <Name>DDD</Name>
+      <Notes />
+      <Active>true</Active>
+      <ResourceCategory>Default</ResourceCategory>
+      <StartDate>2017-10-20</StartDate>
+    </Resource>
+    <Resource>
+      <Name>EEE</Name>
+      <Notes />
+      <Active>true</Active>
+      <ResourceCategory>Default</ResourceCategory>
+      <StartDate>2017-10-20</StartDate>
+    </Resource>
+    <Resource>
+      <Name>FFF</Name>
+      <Notes />
+      <Active>false</Active>
+      <ResourceCategory>Default</ResourceCategory>
+      <StartDate>2017-10-20</StartDate>
+    </Resource>
+    <Resource>
+      <Name>GGG</Name>
+      <Notes />
+      <Active>true</Active>
+      <ResourceCategory>Default</ResourceCategory>
+      <StartDate>2017-10-20</StartDate>
+    </Resource>
+    <Resource>
+      <Name>HHH</Name>
+      <Notes />
+      <Active>true</Active>
+      <ResourceCategory>Default</ResourceCategory>
+      <StartDate>2017-10-20</StartDate>
+    </Resource>
+    <Resource>
+      <Name>III</Name>
+      <Notes />
+      <Active>true</Active>
+      <ResourceCategory>Default</ResourceCategory>
+      <StartDate>2017-10-20</StartDate>
+    </Resource>
+    <Resource>
+      <Name>JJJ</Name>
+      <Notes />
+      <Active>true</Active>
+      <ResourceCategory>Default</ResourceCategory>
+      <StartDate>2017-10-20</StartDate>
+    </Resource>
+    <Resource>
+      <Name>KKK</Name>
+      <Notes>fdsfadsfa534
+5345
+fg
+sdgfd</Notes>
+      <Active>true</Active>
+      <ResourceCategory>Test a</ResourceCategory>
+      <StartDate>2017-10-20</StartDate>
+    </Resource>
+  </Resources>
+  <Days>
+    <Day>
+      <Date>2017-10-02</Date>
+      <Resource>AAC</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-21</Date>
+      <Resource>BBB</Resource>
+      <Resource>AAC</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-22</Date>
+      <Resource>CCC</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-23</Date>
+      <Resource>DDD</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-24</Date>
+      <Resource>EEE</Resource>
+      <Resource>AAC</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-25</Date>
+      <Resource>FFF</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-26</Date>
+      <Resource>GGG</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-27</Date>
+      <Resource>HHH</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-28</Date>
+      <Resource>III</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-29</Date>
+      <Resource>JJJ</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-30</Date>
+      <Resource>KKK</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-01</Date>
+      <Resource>AAC</Resource>
+      <Resource>GGG</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-03</Date>
+      <Resource>FFF</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-04</Date>
+      <Resource>HHH</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-05</Date>
+      <Resource>HHH</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-06</Date>
+      <Resource>BBB</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-07</Date>
+      <Resource>JJJ</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-08</Date>
+      <Resource>KKK</Resource>
+    </Day>
+    <Day>
+      <Date>2017-11-01</Date>
+      <Resource>AAC</Resource>
+    </Day>
+    <Day>
+      <Date>2017-11-02</Date>
+      <Resource>BBB</Resource>
+    </Day>
+    <Day>
+      <Date>2017-11-03</Date>
+      <Resource>CCC</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-15</Date>
+      <Resource>GGG</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-16</Date>
+      <Resource>GGG</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-31</Date>
+      <Resource>GGG</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-11</Date>
+      <Resource>DDD</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-09</Date>
+      <Resource>AAC</Resource>
+    </Day>
+    <Day>
+      <Date>2017-10-10</Date>
+      <Resource>AAC</Resource>
+    </Day>
+    <Day>
+      <Date>2017-07-02</Date>
+      <Resource>AAC</Resource>
+    </Day>
+  </Days>
+</Data>
